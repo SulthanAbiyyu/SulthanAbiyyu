@@ -2,7 +2,7 @@
  <h1 align="center">
       Hi <img src= "https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Sulthan Abiyyu 
       </h1><br>
-<p align="center" width="150px"> I just graduated from high school and went to Brawijaya University for Computer Science program. <br>I was a programmer hobbyist that learn from free online sources. I was lost in many way on my learning journey and that's why i :heart: it. </p><br>
+<p align="center" width="150px"> I just graduated from high school and went to Brawijaya University for Computer Science program. <br>I’m a programmer hobbyist that learns from free online sources. I was lost in many ways on my learning journey and that's why I :heart: it. </p><br>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulthanAbiyyu&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=SulthanAbiyyu&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
