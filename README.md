@@ -12,7 +12,7 @@
 
 
 <hr>
-<h1 align="center" style="font-size:30px">Reach me on</h1> <p align="center"><a href="https://sulthanabiyyu.web.app"><img src="https://img.shields.io/badge/-website-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a><a  href="mailto:sabiyyuhakim@gmail.com?"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a><a  href="https://www.youtube.com/channel/UCqrg8UfzAEuUzPSEr3_o7kw"><img src="https://img.shields.io/badge/-6FStudio-FF5733?style=for-the-badge&logo=youtube&logoColor=white"/></a><a href="https://blendermarket.com/creators/6f-studio"><img src="https://img.shields.io/badge/-6FStudio-FFA116?style=for-the-badge&logo=blender&logoColor=white"/></a><a href="https://6fstudio.gumroad.com/"><img src="https://img.shields.io/badge/-6FStudio-000000?style=for-the-badge&logo=gumroad&logoColor=white"/></a></p>
+<h1 align="center" style="font-size:30px">Reach me on</h1> <p align="center"><a  href="mailto:sabiyyuhakim@gmail.com?"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a><a  href="https://www.youtube.com/channel/UCqrg8UfzAEuUzPSEr3_o7kw"><img src="https://img.shields.io/badge/-6FStudio-FF5733?style=for-the-badge&logo=youtube&logoColor=white"/></a><a href="https://blendermarket.com/creators/6f-studio"><img src="https://img.shields.io/badge/-6FStudio-FFA116?style=for-the-badge&logo=blender&logoColor=white"/></a><a href="https://6fstudio.gumroad.com/"><img src="https://img.shields.io/badge/-6FStudio-000000?style=for-the-badge&logo=gumroad&logoColor=white"/></a></p>
 <br>
 
 
