@@ -1,6 +1,6 @@
 <p align="center">
  <h1 align="center">
-      Hi <img src= "https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Sulthan Abiyyu 
+      Hi, I'm Sulthan Abiyyu 
       </h1><br>
 <p align="center" width="150px"> Passionate in data science, machine learning, and latest tech in general.</p><br>
 
